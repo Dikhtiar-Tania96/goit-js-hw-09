@@ -1,0 +1,27 @@
+body {
+  background-color: violet;
+}
+
+.timer {
+  display: flex;
+  gap: 30px;
+  font-size: 20px;
+  color: blue;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  width: 70px;
+  height: 40px;
+  background-color: yellow;
+  font-size: 25px;
+  color: blue;
+  border-color: blue;
+  border-radius: 10px;
+}
